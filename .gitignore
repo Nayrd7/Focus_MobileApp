@@ -31,6 +31,10 @@ MANIFEST
 .idea
 .idea
 .venv
+.buildozer/
+bin/
+kivy-deps-build/
+kivy_venv/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
